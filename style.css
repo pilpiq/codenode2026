@@ -1,0 +1,32 @@
+/* Theme Name: CODENODE2026
+Author: Pilar Villora
+Description: Mi primer tema en Wordpress
+Version: 1.0
+Tags: html5, css3
+*/
+/* estilos personalizados para mi tema */
+
+body {
+    background-color: darkgrey;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+p{
+    background-color: darkseagreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkcyan;
+    border-radius: 10px 30px;
+}
+
+h1 {
+    color:darkslategray;
+    font-size: x-large;
+}
+
+footer {
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
